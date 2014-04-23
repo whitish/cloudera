@@ -1,4 +1,4 @@
-#Hadoop Test Reducer
+# !usr/bin/Rscript
 require(stringr)
 
 f<-file("stdin")
